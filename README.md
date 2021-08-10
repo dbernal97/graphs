@@ -1,6 +1,4 @@
-# Proyecto3_202010_sec5_team3
+# Java and graphs practice
 
-Juan Sebastian Villamil 
-201715410
-Daniel Bernal 
-201519654
+By Daniel Bernal 
+Contributor: Sebastian Villamil
